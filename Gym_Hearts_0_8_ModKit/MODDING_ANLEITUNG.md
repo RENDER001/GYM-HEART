@@ -1,4 +1,4 @@
-# Gym Hearts 0.8 – Eigene Bilder einsetzen
+# Gym Hearts 0.1 – Eigene Bilder einsetzen
 
 1. ZIP komplett entpacken. Die `index.html` muss neben dem Ordner `assets` bleiben.
 2. Die gewünschte PNG in `assets/characters/rina/` (oder `mio/` bzw. `sakura/`) kopieren.

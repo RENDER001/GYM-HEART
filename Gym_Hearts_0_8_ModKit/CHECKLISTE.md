@@ -1,4 +1,4 @@
-# Gym Hearts – Entwicklungscheckliste (Stand: Version 0.7)
+# Gym Hearts – Entwicklungscheckliste (Stand: Version 0.1)
 
 ## Erledigt
 - [x] 3 spielbare Figuren mit eigenen Zuneigungs- und Vertrauenswerten
@@ -30,7 +30,7 @@
 
 Hinweis: Die zusätzlichen Charakterordner sind reserviert, nicht spielbar.
 
-## 0.8 Mod-Kit
+## 0.1 Mod-Kit
 - [x] Feste Charakter-Unterordner
 - [x] Sprite-Fallback bei fehlenden Varianten
 - [x] Automatische Slot-Auswahl für aktive Charaktere
@@ -38,3 +38,12 @@ Hinweis: Die zusätzlichen Charakterordner sind reserviert, nicht spielbar.
 - [x] Anleitung zum Austauschen per Drag & Drop
 - [ ] Eigene Grafiken für alle Slots
 - [ ] Neue Routen für zusätzliche Charaktere
+
+## 0.1 – Kennenlernen im Muscle Gym
+- [x] Rina (25): ehrgeizige MMA-Athletin
+- [x] Mio (24): humorvolle Trainingspartnerin
+- [x] Sakura (27): ruhige Kraftsportlerin
+- [x] Je drei Szenen mit drei Antworten und individuellen Vorlieben
+- [x] Drei parallele Routen ohne dauerhafte Dialog-Sperren
+- [ ] Zusätzliche Figuren über Gym-Events freischalten
+- [ ] Gemeinsames romantisches Ende mit Zustimmung aller Beteiligten
