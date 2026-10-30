@@ -1,0 +1,7 @@
+AKTIVE SCHAUPlÄTZE:
+gym.png – Trainingsfläche/MMA
+locker.png – Umkleide-Lounge
+lounge.png – Smoothie-Bar
+
+Einfach vorhandene Dateien mit eigenen Bildern gleichen Namens ersetzen.
+Für weitere Schauplätze muss später die Szenenzuordnung im Code erweitert werden.

@@ -1,0 +1,10 @@
+OPTIONALE BILD-SLOTS (PNG; transparent empfohlen):
+training.png
+mma.png
+casual.png
+rest.png
+night.png
+date.png
+
+Dateien bitte genau so benennen. Nicht vorhandene Varianten fallen auf sprite.png zurück (für aktive Rina, Mio, Sakura).
+Für noch gesperrte Figuren werden Assets für spätere Spielversionen vorbereitet.
